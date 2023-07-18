@@ -1,0 +1,6 @@
+﻿  graph0627.cpp
+F:\pre_cpp\begin\graph0627\graph0627.cpp(63,13): warning C4101: “vj”: 未引用的局部变量
+F:\pre_cpp\begin\graph0627\graph0627.cpp(63,9): warning C4101: “vi”: 未引用的局部变量
+F:\pre_cpp\begin\graph0627\graph0627.cpp(63,17): warning C4101: “w”: 未引用的局部变量
+F:\pre_cpp\begin\graph0627\graph0627.cpp(312,18): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  graph0627.vcxproj -> F:\pre_cpp\begin\graph0627\x64\Debug\graph0627.exe
